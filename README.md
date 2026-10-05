@@ -1,5 +1,3 @@
-# SWR---Gym-Management-System
-
 # Gym Management System
 
 A Business Requirements Analysis project for a **Gym Management System (GMS)** developed as part of the **SWR302** course at FPT University.
